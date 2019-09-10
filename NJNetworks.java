@@ -14,7 +14,6 @@ public class NJNetworks {
 	
 	public static ArrayList<String> njtrees;
 	//the NJ network is hierarchically built bottom-up; 
-	//first i generate all nj trees
 	public static String[] initialTaxa;
 	public static String mode;
 	public static int digit;
