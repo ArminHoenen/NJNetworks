@@ -23,7 +23,10 @@ public class NJNetworks {
 		
 		//TODO
 		//a) identify mildest rounding factor b) increment rounding c) undulate mode halfup/down d)properly output rounding params
-				
+		//check dependency on letters in procedure
+		//make input possible for know formats, phylip?
+		//make output Newick
+		
 		mode="half-up";
 		digit=0;
 		
