@@ -1,6 +1,6 @@
 # NJNetworks
 
-Here, the code for a commandline tool to obtain multiple trees for any input distance matrix from the NJ networks algorithm will be available soon. 
+Here, the code for a commandline tool to obtain multiple trees for any input distance matrix from the NJ networks algorithm will be available soon. Currently, only source code with rounding to next integer performed.
 
 *Simulation study
 The code for the simulation study comprises a first step, where distance matrices with a proportion of equal values are being produced.
